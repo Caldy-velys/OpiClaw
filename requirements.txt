@@ -1,0 +1,23 @@
+# Core ML dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Data processing
+tqdm>=4.64.0
+scikit-learn>=1.1.0
+pandas>=1.4.0
+
+# Visualization
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Development tools
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.991
+
+# Optional: GPU support
+# torch>=2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html 
