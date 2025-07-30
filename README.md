@@ -216,4 +216,4 @@ If you use OpiClaw in your research, please cite:
 
 **Ready to explore the abyss? 🌊🤖**
 
-*OpiClaw: Where cutting-edge AI meets the deepest frontiers of our planet.* 
+*OpiClaw: Created to find crab faster than Deadliest Catch* 
