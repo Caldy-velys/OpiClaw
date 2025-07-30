@@ -195,9 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name](mailto:your.email@example.com)
-- **Research Questions**: [Open an Issue](https://github.com/yourusername/opiclaw/issues)
-- **Collaboration**: [Start a Discussion](https://github.com/yourusername/opiclaw/discussions)
+- **Project Lead**: Matt Caldwell, matt@hyperbid.us
+
 
 ## 🌊 Citation
 
