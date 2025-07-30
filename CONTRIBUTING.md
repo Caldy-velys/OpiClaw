@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to OpiClaw! This document provides guidelines for contributing to the project.
 
-## 🌊 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 pip install -r requirements-dev.txt  # Development dependencies
 ```
 
-## 🚀 Development Workflow
+##  Development Workflow
 
 ### 1. Create a Feature Branch
 ```bash
@@ -73,7 +73,7 @@ git commit -m "feat: add new feature description"
 git push origin feature/your-feature-name
 ```
 
-## 📝 Code Style Guidelines
+##  Code Style Guidelines
 
 ### Python Code
 - Follow PEP 8 style guide
@@ -100,7 +100,7 @@ feat: add uncertainty calibration metrics
 - Update evaluation pipeline
 ```
 
-## 🧪 Testing Guidelines
+##  Testing Guidelines
 
 ### Writing Tests
 - Write tests for all new functionality
@@ -123,7 +123,7 @@ def test_feature_name():
     assert result.shape == expected_shape
 ```
 
-## 📚 Documentation
+##  Documentation
 
 ### Code Documentation
 - Use Google-style docstrings
@@ -148,7 +148,7 @@ def process_sonar_data(points: torch.Tensor,
     """
 ```
 
-## 🎯 Areas for Contribution
+##  Areas for Contribution
 
 ### High Priority
 - **Real Data Integration**: NOAA bathymetry dataset loading
@@ -167,7 +167,7 @@ def process_sonar_data(points: torch.Tensor,
 - **Data Augmentation**: Physics-based sonar simulations
 - **Deployment Tools**: Docker containers and deployment scripts
 
-## 🐛 Reporting Issues
+##  Reporting Issues
 
 ### Bug Reports
 When reporting bugs, please include:
@@ -184,7 +184,7 @@ For feature requests, please include:
 - Proposed implementation approach
 - Expected benefits
 
-## 🤝 Pull Request Process
+##  Pull Request Process
 
 ### Before Submitting
 1. Ensure all tests pass
@@ -216,17 +216,17 @@ Brief description of changes
 - [ ] CHANGELOG updated
 ```
 
-## 📞 Getting Help
+##  Getting Help
 
 - **Issues**: Use GitHub issues for bugs and feature requests
 - **Discussions**: Use GitHub discussions for questions and ideas
 - **Email**: Contact maintainers directly for urgent matters
 
-## 🙏 Recognition
+##  Recognition
 
 Contributors will be recognized in:
 - Project README
 - Release notes
 - Academic publications (if applicable)
 
-Thank you for contributing to OpiClaw! 🌊🤖 
+Thank you for contributing to OpiClaw!  

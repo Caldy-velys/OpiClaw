@@ -10,8 +10,4 @@ __email__ = "matt@hyperbid.us"
 from .models import PanopticOpiClaw
 from .utils import project_to_polar_bev, generate_marine_scene
 
-__all__ = [
-    "PanopticOpiClaw",
-    "project_to_polar_bev", 
-    "generate_marine_scene"
-] 
+__all__ = ["PanopticOpiClaw", "project_to_polar_bev", "generate_marine_scene"]

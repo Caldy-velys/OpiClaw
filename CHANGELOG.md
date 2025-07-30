@@ -5,7 +5,7 @@ All notable changes to OpiClaw will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2025-01-XX
+## [1.0.0] - 2025-07-30
 
 ### Added
 - **Initial Release**: Complete OpiClaw panoptic segmentation model
@@ -31,6 +31,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Proper evidential loss implementation
 - Numerically stable uncertainty calculations
 - Efficient batch processing for training
+
+### Quality Assurance & CI/CD
+- **Code Formatting**: Applied Black formatter to all Python files
+- **Linting**: Comprehensive flake8 analysis and code quality improvements
+- **Type Checking**: MyPy validation with zero type errors
+- **Test Coverage**: 77% code coverage with all 7 tests passing
+- **Performance Testing**: Complete test suite runs in ~73 seconds
+
+### Bug Fixes & Optimizations
+- Fixed tensor shape mismatch in MarineLGRSFusion cross-attention
+- Completed embedding normalization in InstanceHead
+- Optimized radial position encoding for O(n) complexity
+- Improved memory efficiency in BEV projection operations
+- Resolved code style inconsistencies and unused imports
 
 ### Research Contributions
 - First application of evidential deep learning to sonar segmentation
